@@ -11,7 +11,7 @@ Coffee machine could be configured to accept different coffee recipes:
 
 - Feature #1: 
   - Coffee machine should be able to make an espresso
-    - Subtask #1: 
+    - Subtask #1:  
 
 - Feature #2: 
   - Coffee machine should be able to switch between coffee recipes (Espresso, Latte, Americano)
