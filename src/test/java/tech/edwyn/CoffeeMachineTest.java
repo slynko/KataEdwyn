@@ -10,15 +10,5 @@ public class CoffeeMachineTest {
 
     @Test
     public void shouldMakeCoffeeWithEspressoIngredient() {
-//        //given
-//        var coffeeMachine = new CoffeeMachine();
-//        var espressoRecipe = new EspressoRecipe();
-//        coffeeMachine.setRecipe(espressoRecipe);
-//
-//        //when
-//        var actualCoffee = coffeeMachine.makeCoffee();
-//
-//        //then
-//        assertThat(actualCoffee.getIngredients()).contains(ESPRESSO);
     }
 }
