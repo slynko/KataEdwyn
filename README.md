@@ -15,3 +15,6 @@ Coffee machine could be configured to accept different coffee recipes:
 
 - Feature #2: 
   - Coffee machine should be able to switch between coffee recipes (Espresso, Latte, Americano)
+
+- Feature #3:
+  - Be able to add a custom coffee recipe
