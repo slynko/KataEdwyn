@@ -21,6 +21,6 @@ Coffee machine could be configured to accept different coffee recipes:
     - Espresso: 3 €
     - Latte: 7 €
     - Americano: 5 €
-  - Bill format if 2 Espresso and 1 Latte:
+  - Bill format if 3 Espresso and 1 Latte:
     - Espresso: 9 €
     - Latte: 7 € 
