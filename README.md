@@ -12,15 +12,3 @@ Coffee machine could be configured to accept different coffee recipes:
 - Feature #1: 
   - Coffee machine should be able to make an espresso
 
-- Feature #2: 
-  - Coffee machine should be able to switch between coffee recipes (Espresso, Latte, Americano)
-
-- Feature #3:
-  - Coffee machine should be able to print the bill. All coffees which have been served by the machine should be included in the bill.
-  - Prices:
-    - Espresso: 3 €
-    - Latte: 7 €
-    - Americano: 5 €
-  - Bill format if 3 Espresso and 1 Latte:
-    - Espresso: 9 €
-    - Latte: 7 € 
