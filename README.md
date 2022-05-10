@@ -10,5 +10,6 @@ Coffee machine could be configured to accept different coffee recipes:
 =====================================
 
 - Feature #1: 
-  - Coffee machine should be able to make an espresso
+  - Coffee machine should be able to make an espresso. 
+  - A coffee with the correct ingredients is expected as a result of coffee machine work.
 
