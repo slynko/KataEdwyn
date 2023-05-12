@@ -13,4 +13,5 @@ Coffee machine could be configured to accept different coffee recipes:
   - Coffee machine should be able to make an espresso. 
   - A coffee with the correct ingredients is expected as a result of coffee machine work.
   - Ingredient is a value (7) + unit (g) = 7g
+  - There is only one coffee machine which makes different coffee types
 
