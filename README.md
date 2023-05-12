@@ -15,3 +15,5 @@ Coffee machine could be configured to accept different coffee recipes:
   - Ingredient is a value (7) + unit (g) = 7g
   - There is only one coffee machine which makes different coffee types
 
+- Feature #2:
+  - ...
