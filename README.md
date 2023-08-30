@@ -17,3 +17,10 @@ Coffee machine could be configured to accept different coffee recipes:
 
 - Feature #2:
   - ...
+
+=====================================
+- Feel free to use any architecture, patterns, good practices you like
+- The goal is not only to make the code that works but also the code which is 
+  - maintainable
+  - easy to read, simple
+  - clean
