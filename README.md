@@ -24,4 +24,4 @@ Coffee machine could be configured to accept different coffee recipes:
   - maintainable
   - easy to read, simple
   - clean
-- ≈45min
+- ≈45min for the first feature
