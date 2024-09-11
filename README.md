@@ -1,6 +1,7 @@
 # Coffee machine
 
-As a user I want to be able to select a coffee type and make it.
+Context:
+I want to be able to select a coffee type and make it.
 
 Coffee machine could be configured to accept different coffee recipes:
 - Espresso: 7g coffee beans, 37 ml water
@@ -11,9 +12,7 @@ Coffee machine could be configured to accept different coffee recipes:
 
 - Feature #1: 
   - Coffee machine should be able to make an espresso. 
-  - A coffee with the correct ingredients is expected as a result of coffee machine work.
-  - Ingredient is a value (7) + unit (g) = 7g
-  - There is only one coffee machine which makes different coffee types
+  - A coffee with the correct ingredients is expected as a result.
 
 - Feature #2:
   - ...
@@ -21,7 +20,6 @@ Coffee machine could be configured to accept different coffee recipes:
 =====================================
 - Feel free to use any architecture, patterns, good practices you like
 - The goal is not only to make the code that works but also the code which is 
-  - maintainable
-  - easy to read, simple
+  - prod ready
   - clean
 - ≈45min for the first feature
