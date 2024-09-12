@@ -22,4 +22,4 @@ Coffee machine could be configured to accept different coffee recipes:
 - The goal is not only to make the code that works but also the code which is 
   - prod ready
   - clean
-- ≈45min for the first feature
+- ≈45min
